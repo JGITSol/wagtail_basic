@@ -54,7 +54,7 @@ INSTALLED_APPS = [
 
     'modelcluster',
     'taggit',
-
+    'portfolio',
     'wagtailthemes',
 
     'example.apps.pages',
